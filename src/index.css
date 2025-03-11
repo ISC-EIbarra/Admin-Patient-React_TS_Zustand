@@ -1,1 +1,6 @@
+@import url('./Font/font.css');
 @import 'tailwindcss';
+
+body {
+  font-family: 'Canaro';
+}
